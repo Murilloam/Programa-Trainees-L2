@@ -1,0 +1,1 @@
+Para rodar o código precisa dos comandos do robô no arquivo de texto, o tamanho da sala vai ser passado pelo terminal. Caso queira fazer um novo teste, antes de digitar o 1 e dar enter, trocar os comandos do robô para os novos comandos e salvar, após a alteração pode confirmar se deseja um novo teste.
